@@ -1,0 +1,12 @@
+.vs
+.vscode/*
+.idea/*
+*.suo
+*.user
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.DS_Store
+/Src/.idea
+

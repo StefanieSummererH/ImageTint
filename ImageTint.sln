@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTint", "ImageTint\ImageTint.csproj", "{3CA65A3E-49E0-4126-96C8-8B007544DE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA65A3E-49E0-4126-96C8-8B007544DE50}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9ACA2A-887F-40A9-A1A2-B7715D84E483}
+	EndGlobalSection
+EndGlobal
